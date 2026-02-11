@@ -50,8 +50,7 @@
 # puts "Multiplication of your numbers: #{num1*num2}"
 # puts  "devision = #{num1/num2}"
 # puts  "Modulo = #{num1%num2}"
-
-
+fh
 
 
 # # # String reversal and palindrome checker
