@@ -13,3 +13,9 @@ when 50..59
 else 
   puts "F Grade"
 end
+
+# TERNARY OPERATOR
+puts "enter your age"
+age = gets.chomp.to_i
+result = age >=18 ? "adult":"minor"
+puts result
