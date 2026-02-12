@@ -6,9 +6,9 @@ loop do
 
   if  (1..5) === guess
     puts "It's Sooo Far"
-  elsif (9..10) === guess
+  elsif (9...0) === guess
     puts "It's High"
-  elsif  8 === guess
+  elsif  8 == guess
     puts "Correct! 🎉"
   break
   else
